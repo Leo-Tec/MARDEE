@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:padding="15dp"
+    tools:context="adiasoft.mardee.LockActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Para desbloquear y seguir leyendo, debe realizar un pequeño donativo de  S./ 3.00 (tres soles) a cualquiera de las siguientes cuentas bancarias:  "></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="#ff0000"
+        android:text="Cuenta Banco de la Nación: 04-121-090401"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="Cuenta de Interbank:  300-3037723374 "></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#7030a0"
+        android:text="Cuenta BCP:   215-92516875-0-83"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:layout_marginTop="10dp"
+        android:text="Luego de realizado el depósito, enviar una foto del baucher al WhatsApp 959823776 , indicando su e-mail o número de celular con el cual se registró en el aplicativo y en un plazo no mayor a 24 horas se desbloqueará las lecturas."></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginTop="5dp"
+        android:text="Muchas Gracias."></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        android:textColor="#002060"
+        android:layout_marginTop="5dp"
+        android:text="R. Mattos R. (Autor – Editor)"></TextView>
+</LinearLayout>
